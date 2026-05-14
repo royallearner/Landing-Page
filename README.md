@@ -85,7 +85,7 @@ This digital portal guarantees that the Udaan experience lives on long after the
 ![Community Join Form](./images/join_form.png)
 
 ---
-
+<!--
 ## 🌈 7. Future Vision
 
 This portal is just the foundation. Looking beyond Udaan, we plan to evolve this platform into a comprehensive career ecosystem:
@@ -96,7 +96,7 @@ This portal is just the foundation. Looking beyond Udaan, we plan to evolve this
 * **Collaboration Opportunities:** Scaling the platform to co-host events with other university clubs, fostering a multidisciplinary approach to career building.
 * **Permanent Campus Fixture:** Transitioning from a temporary event portal to the official, year-round digital headquarters for all student professional development at the university.
 
----
+-->
 
 <div align="center">
   <p><b>Contact Us:</b> internshipncoclub@sgcrguktsklm.org.in | +91 9966800756</p>
